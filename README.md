@@ -25,6 +25,9 @@ Todas as configurações relacionadas ao back-end (api e endpoints) e banco de d
 2.	Bônus:
 - Desenvolver uma função de anexar arquivos para cada pergunta;
 
+3.	Equipamentos (QRCode):
+- Lista de equipamentos disponível no endereço: https://desafio-iall.azurewebsites.net
+
 ### Regras de negócio
 - É obrigatório responder todas as perguntas;
 - As respostas sinalizadas com observação obrigatória devem exibir um campo de texto obrigatório para justificativa uma vez que o usuário selecionar aquela resposta;
@@ -35,7 +38,7 @@ Todas as configurações relacionadas ao back-end (api e endpoints) e banco de d
 
 ### API
 Toda a documentação necessaria para comunicação com a api está disponivel no endereço:
-https://desafio-iall.azurewebsites.net/api/swagger/index.html
+- https://desafio-iall.azurewebsites.net/api/swagger/index.html
 
 ## Como serei avaliado?
 O candidato será avaliado levando em conta os seguintes critérios:
