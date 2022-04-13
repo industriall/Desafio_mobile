@@ -34,7 +34,8 @@ Todas as configurações relacionadas ao back-end (api e endpoints) e banco de d
 - A funcionalidade de anexar arquivos deve permitir o upload apenas de imagens e vídeos;
 
 ### API
-
+Toda a documentação necessaria para comunicação com a api está disponivel no endereço:
+https://desafio-iall.azurewebsites.net/api/swagger/index.html
 
 ## Como serei avaliado?
 O candidato será avaliado levando em conta os seguintes critérios:
