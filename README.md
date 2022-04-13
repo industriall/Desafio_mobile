@@ -34,7 +34,10 @@ Todas as configurações relacionadas ao back-end (api e endpoints) e banco de d
   •	O usuário só pode salvar as respostas se todos os itens estiverem respondidos;
   •	A funcionalidade de anexar arquivos deve permitir o upload apenas de imagens e vídeos;
 
-### Avaliação
+### API
+
+
+## Como serei avaliado?
 O candidato será avaliado levando em conta os seguintes critérios:
   •	Atendimento das regras de negócios;
   •	Fidelidade ao funcionamento descrito nas instruções;
@@ -43,4 +46,10 @@ O candidato será avaliado levando em conta os seguintes critérios:
   •	Usabilidade (UX);
   •	Desenvolver em Ionic e Angular;
 
-### API
+
+Você poderá:
+
+- efetuar um pull request da sua implementação diretamente no Github até a data limite de 19/04/2022, ou
+- encaminhar para o e-mail henan.ferreira@industriall.ai com rh@industriall.ai em cópia, um arquivo .zip ou link com o código fonte até a data limite de 19/04/2022.
+
+Qualquer problema ou dificuldade, você pode entrar em contato conosco pelos e-mails, henan.ferreira@industriall.ai ou rh@industriall.ai para que possamos sanar todas as dúvidas!
