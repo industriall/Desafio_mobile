@@ -39,6 +39,9 @@ Todas as configurações relacionadas ao back-end (api e endpoints) e banco de d
 ### API
 Toda a documentação necessaria para comunicação com a api está disponivel no endereço:
 - https://desafio-iall.azurewebsites.net/api/swagger/index.html
+Use as credenciais abaixo para testar a api:
+Username: teste@teste.com
+Password: 123123
 
 ## Como serei avaliado?
 O candidato será avaliado levando em conta os seguintes critérios:
