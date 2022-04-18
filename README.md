@@ -46,6 +46,10 @@ Username: teste@teste.com
 
 Password: 123123
 
+Bonus (Anexos):
+Os anexos são enviados em uma segunda requisição que só deve ser realizada após completar o envio das respostas. A estrutura do body é Multipart Form e o nome do paramentro dos arquivos é 'file'. Os demais parametros para identificar as relações do anexo são passados por QueryString.
+
+
 ## Como serei avaliado?
 O candidato será avaliado levando em conta os seguintes critérios:
 - Atendimento das regras de negócios;
