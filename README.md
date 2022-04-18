@@ -40,11 +40,10 @@ Todas as configurações relacionadas ao back-end (api e endpoints) e banco de d
 Toda a documentação necessaria para comunicação com a api está disponivel no endereço:
 - https://desafio-iall.azurewebsites.net/api/swagger/index.html
 
-Use as credenciais abaixo para testar a api:
+A autenticação da api deve ser feita através de Bearer Token. O token pode ser requisitado pelo endpoint de login (único endpoint acessível sem token). Use as credenciais abaixo para testar a api:
 
-Username: teste@teste.com
-
-Password: 123123
+- Username: teste@teste.com
+- Password: 123123
 
 Bonus (Anexos):
 Os anexos são enviados em uma segunda requisição que só deve ser realizada após completar o envio das respostas. A estrutura do body é Multipart Form e o nome do paramentro dos arquivos é 'file'. Os demais parametros para identificar as relações do anexo são passados por QueryString.
